@@ -11,7 +11,7 @@ zufälliges Getränk zurückliefert.
 require 'vendor/autoload.php';
 
 // Objekt erstellen
-$drinkMachine = new \Mlukic\Drinks\RandomDrink();
+$drinkMachine = new \mlukic\Drinks\RandomDrink();
 
 // Aufruf der Methode
 $drink = $drinkMachine -> getDrink();

@@ -4,7 +4,7 @@ namespace Mlukic\Drinks;
 
 class RandomDrink
 {
-    private array $drinks = ['Wasser', 'Saft'];
+    private array $drinks = ['Wasser', 'Saft', 'Apfelsaft'];
 
     public function getDrink(): string
     {
