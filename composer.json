@@ -1,0 +1,19 @@
+{
+    "name": "mlukic/drinks",
+    "description": "A drink library",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mlukic\\Drinks\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manuel Lukic",
+            "email": "mlukic@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
